@@ -190,3 +190,8 @@ p {
 .btn-div {
     margin-bottom: 10px;
 }
+
+#extra-heading{
+    position: relative;
+    z-index: -1;
+}
